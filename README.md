@@ -23,6 +23,7 @@
 ---
 
 ### 🛠 사용 기술 & 도구
+- VSCode
 - Python 3.11
 - Volatility 3
 - Wireshark
